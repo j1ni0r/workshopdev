@@ -5,4 +5,4 @@ A intenção é criar uma página onde se possa cadastrar idéias, brincadeiras,
 e tudo que for necessário para tornar esse momento mais interessante. 
 
 Tecnologias utilizadas. 
-- sqlite3, javascript, html + css
+- sqlite3, nodejs, express, javascript, html + css
