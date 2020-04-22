@@ -1,4 +1,4 @@
-# workshopdev
+# Casa Criativa
 Aplicação desenvolvida durante o WorkShopDev da RocketSeat
 
 A intenção é criar uma página onde se possa cadastrar idéias, brincadeiras, jogos, filmes, livros, cursos, dicass 
