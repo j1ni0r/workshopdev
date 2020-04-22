@@ -1,7 +1,7 @@
 //usei o express pra criar e configurar o servidor
 const express = require("express")
 const server  = express()
-
+const PORT = process.env.PORT || 3000
 const db = require("./db")
 
 
@@ -138,4 +138,4 @@ server.post("/", function(req, res) {
     })
 })
 //liguei o server na porta 3000
-server.listen(3001)
+server.listen(PORT)
