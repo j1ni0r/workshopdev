@@ -6,4 +6,4 @@ A intenção é criar uma página onde se possa cadastrar idéias, brincadeiras,
 A aplicação é basicamente um CRUD usando as seguintes tecnologias:
 
 Tecnologias utilizadas. 
-- sqlite3, nodejs, express, javascript, html + css
+- sqlite3, nodejs, express, javascript, html + css, nunjucks.
